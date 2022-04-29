@@ -1,0 +1,44 @@
+$mainColor:#e426d5;
+.option-box .color-option ,
+ .header .overlay button span,
+ .choose-head,
+ .choose .feat-head:hover i,
+ .history .col-md-6 h2,
+ .our-services .h1,
+ .our-services .col-md-6 h2,
+ .product i,
+ .product .h1,
+ .works-head,
+ .hedar-border-center:after,
+  .contact .h1,
+  .contact i,
+  .footer .h1,
+ {
+ color:$mainColor
+ }
+ .input button,
+ .navbar-inverse ,
+  .hedar-border-center:after,
+  .choose .feat-head:hover,
+    .option-box .color-option ul li,
+    .option-box .gear-check,
+    #scroll-top
+ {
+   background-color:$mainColor;
+ }
+ .footer i,
+ .package p,
+ .choose i,
+ .works i,
+ {
+   background-color:$mainColor;
+   border:1px solid $mainColor;
+ }
+  .feat-head,
+  {
+  border:3px solid $mainColor;
+}
+ .our-services img,
+ {
+  border:2px solid $mainColor;
+}
